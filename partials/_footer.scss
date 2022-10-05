@@ -1,0 +1,49 @@
+.footer{
+color: white;
+background-color: black;
+width: 100%;
+height: 40px;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 30px;
+}
+.contact{
+    background-color: black;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.contact{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    .icon1{
+        margin-bottom: 10px;
+        background-color: black;
+        width: 15px;
+        height: 15px;
+    }
+    .icon2 {
+        margin-bottom: 10px;
+        background-color: black;
+         width: 15px;
+        height: 15px;
+    }
+    .icon3 {
+        margin-bottom: 10px;
+        background-color: black;
+        width: 15px;
+        height: 15px;
+    }
+    
+}
+#p-f{
+    background-color: black;
+    margin-top: 0px;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
